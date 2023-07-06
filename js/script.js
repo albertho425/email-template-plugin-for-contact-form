@@ -1,0 +1,1 @@
+// window.alert("hello world from email template");
